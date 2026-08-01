@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Front Yard — Yard Helper</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body data-yard="front">
+  <header>
+    <div class="wrap">
+      <h1>🌱 Front Yard Restoration</h1>
+      <p>Bermuda recovery on North Texas clay — Burleson, TX</p>
+      <nav>
+        <a href="/front" class="active">Front Yard</a>
+        <a href="/back">Backyard Putting Green</a>
+      </nav>
+    </div>
+  </header>
+  <main class="wrap">
+    <div class="progress-card">
+      <div class="label"><span id="progress-text">…</span><span id="progress-pct"></span></div>
+      <div class="bar"><div id="progress-fill"></div></div>
+    </div>
+
+    <div id="tasks"></div>
+
+    <section class="log">
+      <h2>📝 Activity Log</h2>
+      <form id="log-form" class="log-form">
+        <input type="date" id="log-date">
+        <input type="text" id="log-note" placeholder="e.g. Deep watered both zones, pulled bitterweed…">
+        <button type="submit">Add</button>
+      </form>
+      <div id="log-list"></div>
+    </section>
+  </main>
+  <script src="/app.js"></script>
+</body>
+</html>

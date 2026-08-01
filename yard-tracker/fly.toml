@@ -1,0 +1,22 @@
+app = "yard-tomhallbuilds"
+primary_region = "dfw"
+
+[build]
+
+[env]
+  DB_PATH = "/data/yard.db"
+
+[[mounts]]
+  source = "yard_data"
+  destination = "/data"
+
+[http_service]
+  internal_port = 8765
+  force_https = true
+  auto_stop_machines = "stop"
+  auto_start_machines = true
+  min_machines_running = 0
+
+[[vm]]
+  size = "shared-cpu-1x"
+  memory = "256mb"

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Backyard Putting Green — Yard Helper</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body data-yard="back">
+  <header>
+    <div class="wrap">
+      <h1>⛳ Backyard Putting Green</h1>
+      <p>Synthetic green build — one weekend, zero mowing</p>
+      <nav>
+        <a href="/front">Front Yard</a>
+        <a href="/back" class="active">Backyard Putting Green</a>
+      </nav>
+    </div>
+  </header>
+  <main class="wrap">
+    <div class="progress-card">
+      <div class="label"><span id="progress-text">…</span><span id="progress-pct"></span></div>
+      <div class="bar"><div id="progress-fill"></div></div>
+    </div>
+
+    <div id="tasks"></div>
+
+    <section class="log">
+      <h2>📝 Activity Log</h2>
+      <form id="log-form" class="log-form">
+        <input type="date" id="log-date">
+        <input type="text" id="log-note" placeholder="e.g. Sprayed glyphosate, ordered turf samples…">
+        <button type="submit">Add</button>
+      </form>
+      <div id="log-list"></div>
+    </section>
+  </main>
+  <script src="/app.js"></script>
+</body>
+</html>
