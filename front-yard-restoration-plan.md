@@ -30,13 +30,70 @@ It's peak summer heat, so this is a **two-phase job**: keep everything alive and
 
 ## Watering, step by step (beginner's guide)
 
+### The one-sentence answer
+
+> **Water 2 days per week, in the early morning, deeply (multiple cycles), and do absolutely nothing on the other 5 days.**
+
+If you remember nothing else from this document, remember that sentence. Everything below is just detail on how to do those two days well.
+
 ### How many days a week?
 
-**Two days a week. That's it.** More days is not better — it's actually worse.
+**Two days a week. That's it. Not three, not five, not "a little every day."** More days is not better — it's actually worse.
 
 - Pick the two days Burleson allows for your address (check the city's watering schedule page — most Metroplex cities assign days by even/odd house number). If there are no restrictions right now, just pick two days spaced apart, like **Monday and Thursday** or **Tuesday and Friday**.
 - **Water in the early morning, ideally 4–8 AM.** Set the sprinkler or irrigation timer so it finishes around sunrise. Evening watering leaves grass wet overnight (invites fungus), and midday watering loses a lot to evaporation.
 - Daily light sprinkling is the #1 beginner mistake. It keeps only the top inch of soil damp, so roots stay shallow and the lawn stays fragile. Two deep soakings force roots to chase water downward — that's what makes bermuda tough.
+
+**Why only two days works in 100° heat:** grass doesn't drink from the air or the surface — it drinks from the soil around its roots. One deep soak wets the clay 4–6 inches down, and clay holds that moisture for days, even in Texas summer. The grass then sips from that reservoir until the next deep soak. Watering lightly every day never fills the reservoir; it just wets the top inch, which the sun burns off by noon. So the lawn on a daily-sprinkle schedule is actually *drier* where it counts than a lawn watered twice a week.
+
+### Your exact week (copy this)
+
+Assuming Monday/Thursday — swap in whatever two days your address is assigned:
+
+| Day | What you do |
+|---|---|
+| **Monday** | **WATERING DAY.** Full cycle-and-soak routine (below), done by ~8 AM. |
+| Tuesday | Nothing. (First month: do the screwdriver test today — takes 30 seconds.) |
+| Wednesday | Nothing. Resist the urge. |
+| **Thursday** | **WATERING DAY.** Same full routine. |
+| Friday | Nothing. |
+| Saturday | Nothing. Mow if the grass needs it. |
+| Sunday | Nothing. Take your weekly progress photo from the porch. |
+
+"Nothing" really means nothing — no quick hose spritz because it looks hot out. The grass looking a bit dull on day 3 is normal and fine; drought-stressed-looking blades between waterings are exactly what trains roots to grow deeper. (True drought stress looks different — see the warning signs section.)
+
+### What a watering day looks like, start to finish
+
+Example with a hose-end sprinkler and a timer set the night before (an irrigation controller does the same thing automatically — program it once):
+
+1. **~4:30 AM — Cycle 1 starts:** each zone (or sprinkler position) runs ~15 minutes.
+2. **~Hour-long pause.** The water you just applied soaks in instead of running down the curb. This pause is the whole trick with cracked clay.
+3. **~6:00 AM — Cycle 2:** another ~15 minutes per zone.
+4. **(If you can) ~7:15 AM — Cycle 3:** another 10–15 minutes per zone.
+5. Done by ~8 AM. Don't touch the sprinkler again until the next watering day.
+
+If you're moving a hose-end sprinkler by hand and pre-dawn isn't realistic, doing the cycles from 6–9 AM is still fine — early-ish morning beats a perfect schedule you won't keep.
+
+### Days-per-week through the year
+
+| When | Days per week | Notes |
+|---|---|---|
+| **Now – September (90s–100s)** | **2** | The full routine above. |
+| Extended 100°+ streak, zero rain | 2 (longer cycles) or 3 if allowed | Lengthen before adding a day — see "When to adjust." |
+| October (highs in the 80s) | 1–2 | Aim for ~1" total per week. |
+| November (grass browning/dormant) | 1 every week or two | Only if there's been no rain. |
+| **Winter (dormant, brown)** | **1 every 3–4 weeks** | Yes, really — dormant isn't dead, and dry clay winters kill roots. Skip entirely in any week with decent rain. |
+| Next April–May (green-up) | 1–2 | Ramp back up as heat returns. |
+| Next summer | 2 | Back to the full routine. |
+
+### Common doubts, answered
+
+- **"It's 103° out — surely it needs water today?"** No. The soil 4 inches down is still moist from the last deep watering (verify with the screwdriver test if you don't believe it). Heat stresses the *blades*; the *roots* are fine. Two deep days covers even 100°+ weeks.
+- **"The neighbors water every day and their lawn looks good."** Their lawn looks good *despite* daily watering, not because of it — usually established grass with a big irrigation budget. Daily watering also breeds fungus and shallow roots; you'll pass them by fall.
+- **"The grass looks gray and dry the day after watering."** That's the real signal to act on — it means water isn't getting deep enough, not that you need more days. Add a cycle or lengthen the cycles on your two days (and re-run the tuna can test).
+- **"I missed my watering day."** Just water the next morning and slide back onto schedule. One late day changes nothing.
+- **"It rained — do I still water?"** If it rained about ½" or more (check your rain gauge), that *was* one of your watering days. Skip the next scheduled one.
+- **"Can I do one giant watering once a week instead of two?"** On this clay, no — it can't absorb a full week's water in one session even with cycles; the excess runs off. Two sessions is the sweet spot.
 
 ### How much water each time?
 
