@@ -190,6 +190,8 @@ class Handler(BaseHTTPRequestHandler):
             self._file("front.html", "text/html; charset=utf-8")
         elif route == "/back":
             self._file("back.html", "text/html; charset=utf-8")
+        elif route == "/watering":
+            self._file("watering.html", "text/html; charset=utf-8")
         elif route == "/app.js":
             self._file("app.js", "text/javascript")
         elif route == "/api/tasks":

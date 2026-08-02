@@ -96,3 +96,32 @@ section.log h2 { font-size: 1.1rem; margin-bottom: 0.6rem; }
   border: 0; background: none; color: #b55; cursor: pointer; font-size: 1rem; line-height: 1;
 }
 .empty { color: var(--muted); font-size: 0.9rem; font-style: italic; }
+
+/* Watering guide page */
+.guide section {
+  background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+  padding: 1rem 1.2rem; margin-bottom: 1rem;
+}
+.guide h2 { font-size: 1.05rem; margin-bottom: 0.5rem; }
+.guide p { margin-bottom: 0.6rem; font-size: 0.93rem; }
+.guide p:last-child { margin-bottom: 0; }
+.guide ul, .guide ol { margin: 0 0 0.6rem 1.3rem; font-size: 0.93rem; }
+.guide li { margin-bottom: 0.3rem; }
+.callout {
+  background: var(--green-light); border: 1px solid var(--green); border-radius: 12px;
+  padding: 1rem 1.2rem; margin-bottom: 1.2rem; font-size: 1rem;
+}
+.guide table {
+  width: 100%; border-collapse: collapse; margin-bottom: 0.6rem; font-size: 0.9rem;
+}
+.guide th, .guide td {
+  text-align: left; padding: 0.45rem 0.6rem; border-bottom: 1px solid var(--line);
+  vertical-align: top;
+}
+.guide th {
+  font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted);
+}
+.guide tr.water-day { background: var(--green-light); }
+.faq dt { font-weight: 600; margin-top: 0.7rem; font-size: 0.93rem; }
+.faq dt:first-child { margin-top: 0; }
+.faq dd { margin: 0.15rem 0 0; color: var(--muted); font-size: 0.9rem; }
